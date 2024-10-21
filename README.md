@@ -11,7 +11,7 @@ Los empleados pueden ser agregados, modificados, eliminados, e importados o expo
 
 - Eliminar empleados: Elimina empleados de la lista seleccionada.
 
-3. Importación de Empleados
+2. Importación de Empleados
 La aplicación permite importar empleados desde archivos en diferentes formatos:
 
 · JSON: Importa un archivo JSON que contiene empleados en formato de objetos serializados.
