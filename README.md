@@ -25,7 +25,7 @@ Puedes exportar la lista de empleados en diferentes formatos:
 - DAT: Serializa los empleados a un archivo .dat que puede ser leído posteriormente.
 
 ### Agradecimientos
-** Cristian Marrero Marrero
-** David Tejera Gonzalez
-** Eduardo López Hernández
-** Raul Jimenez Delgado
+**Cristian Marrero Marrero**
+**David Tejera Gonzalez**
+**Eduardo López Hernández**
+**Raul Jimenez Delgado**
