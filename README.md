@@ -4,11 +4,13 @@ Los empleados pueden ser agregados, modificados, eliminados, e importados o expo
 
 ### Funcionalidades
 1. Gestión de Empleados (CRUD).
-+ Añadir empleado o importar: Permite agregar empleados a la lista introduciendo sus datos (nombre, apellidos, puesto de trabajo, sueldo, edad).
-+ Modificar empleados: Puedes modificar la información de un empleado existente.
-+ Eliminar empleados: Elimina empleados de la lista seleccionada.
+Añadir empleado o importar: Permite agregar empleados a la lista introduciendo sus datos (nombre, apellidos, puesto de trabajo, sueldo, edad).
 
-2. Importación de Empleados
+Modificar empleados: Puedes modificar la información de un empleado existente.
+
+Eliminar empleados: Elimina empleados de la lista seleccionada.
+
+3. Importación de Empleados
 La aplicación permite importar empleados desde archivos en diferentes formatos:
 
 - JSON: Importa un archivo JSON que contiene empleados en formato de objetos serializados.
