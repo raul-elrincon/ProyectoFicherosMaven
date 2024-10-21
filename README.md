@@ -1,4 +1,4 @@
-Gestión de Empleados - Aplicación de Escritorio
+### Gestión de Empleados - Aplicación de Escritorio
 Esta aplicación permite gestionar una lista de empleados mediante una interfaz gráfica de usuario (GUI) desarrollada en Java Swing.
 Los empleados pueden ser agregados, modificados, eliminados, e importados o exportados en varios formatos, como JSON, CSV, XML, y DAT.
 
