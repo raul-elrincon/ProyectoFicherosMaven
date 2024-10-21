@@ -14,13 +14,13 @@ Los empleados pueden ser agregados, modificados, eliminados, e importados o expo
 3. Importación de Empleados
 La aplicación permite importar empleados desde archivos en diferentes formatos:
 
-·JSON: Importa un archivo JSON que contiene empleados en formato de objetos serializados.
+· JSON: Importa un archivo JSON que contiene empleados en formato de objetos serializados.
 
-·CSV: Importa empleados desde un archivo CSV que debe tener una cabecera con los campos: nombre, primer apellido, segundo apellido, puesto de trabajo, sueldo, edad.
+· CSV: Importa empleados desde un archivo CSV que debe tener una cabecera con los campos: nombre, primer apellido, segundo apellido, puesto de trabajo, sueldo, edad.
 
-·XML: Utilizando JAXB, puedes importar empleados desde un archivo XML con una estructura previamente definida.
+· XML: Utilizando JAXB, puedes importar empleados desde un archivo XML con una estructura previamente definida.
 
-·DAT: Importa empleados serializados en archivos .dat, utilizando deserialización de objetos Java.
+· DAT: Importa empleados serializados en archivos .dat, utilizando deserialización de objetos Java.
 
 3. Exportación de Empleados
 Puedes exportar la lista de empleados en diferentes formatos:
